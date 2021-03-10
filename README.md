@@ -5,7 +5,7 @@
  1. click a movie to learn more information
  2. search movie 
 
- ## how it looks
+ ## How it looks
  ![screenshot](https://github.com/HengZShen/AlphaCamp_S2_3_MovieList_exercise/blob/master/demo_PIC.JPG)
 
 
