@@ -17,8 +17,8 @@
  ` Type "npm install nodemon" `
  5. Start server  <br>
  ` Type "nodemon app.js
-   If you see " Server is running on http://localhost:3000 " pop on your terminal  <br>
-   The server starts successfully
- `
+   If you see " Server is running on http://localhost:3000 " pop on your terminal`  <br>
+  ` The server starts successfully`
+ 
 
  
