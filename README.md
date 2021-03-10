@@ -16,12 +16,11 @@
  `cd AlphaCamp_S2_3_MovieList_exercise.git`
  3. Install npm  <br>
  ` Type "npm intall" in your terminal`
- 4. Install nodemen  <br>
+ 4. Install express  <br>
+ ` Type "npm intall express" in your terminal`
+ 5. Install nodemen  <br>
  ` Type "npm install nodemon" `
- 5. Start server  <br>
+ 6. Start server  <br>
  ` Type "nodemon app.js`  <br>
   ` If you see " Server is running on http://localhost:3000 " pop on your terminal`  <br>
   ` The server starts successfully`
- 
-
- 
