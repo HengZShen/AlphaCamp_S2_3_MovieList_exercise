@@ -5,6 +5,8 @@
  1. click a movie to learn more information
  2. search movie 
 
+ ![screenshot](https://github.com/HengZShen/AlphaCamp_S2_3_MovieList_exercise/blob/master/demo_PIC.JPG)
+
 
  ## Installing
  1. Open your terminal, and clone this project <br>
